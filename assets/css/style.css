@@ -97,6 +97,8 @@ body {
 }
 
 .titulo2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
     text-align: center;
     padding: 50px 0;
 }
